@@ -9,4 +9,4 @@ This project includes 6 microservices:
 5. DiscountService
 6. IdentityServer
 
-Tech Stack: C#, .NET6, gRPC, IdentityServer4, Automapper, EntityFrameworkCore
+Tech Stack: C#, .NET6, gRPC, IdentityServer4, Automapper, EntityFrameworkCore.
