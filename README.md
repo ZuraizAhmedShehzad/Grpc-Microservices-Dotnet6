@@ -1,7 +1,7 @@
 # Grpc Microservice (.NET6)
-This project is built over microservices architecture which are intercommunicating over .NET Grpc (http2 protocol).
+This POC is built over microservices architecture which are intercommunicating over .NET Grpc (http2 protocol).
 For Authentication and Authorization, Identity Server 4 is used. 
-This project includes 6 microservices:
+The project includes 6 microservices:
 1. ProductService
 2. ProductWorkerService
 3. ShoppingCartService
